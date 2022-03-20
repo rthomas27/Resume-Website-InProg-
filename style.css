@@ -1,0 +1,82 @@
+body {
+    background-color: #6c7979;
+    margin: 0;
+}
+
+#photocolumn {
+    position: fixed;
+    object-fit: cover;
+    width: 500px;
+    height: 100%;
+}
+
+#tabs {
+    position: fixed;
+    bottom: 200px;
+    left: 1700px;
+    font-size: 25px;
+    color: white;
+    line-height: 150px;
+}
+
+#name {
+    position: fixed;
+    font-size: 100px;
+    bottom: 500px;
+    left: 525px;
+    color: white;
+}
+
+#contactinfo {
+    font-size: 20px;
+    color: white;
+}
+
+#ci1 {
+    position: fixed;
+    bottom: 550px;
+    left: 525px;
+}
+
+#ci2 {
+    position: fixed;
+    bottom: 550px;
+    left: 725px;
+}
+
+#ci3 {
+    position: fixed;
+    bottom: 550px;
+    left: 925px;
+}
+
+#ci4 {
+    position: fixed;
+    bottom: 550px;
+    left: 1105px;
+    color: white;
+}
+
+.vlines {
+    border: 1px solid white;
+    height: 20px;
+}
+
+#line1 {
+    position: fixed;
+    bottom: 550px;
+    left: 700px;
+}
+
+#line2 {
+    position: fixed;
+    bottom: 550px;
+    left: 904px;
+}
+
+#line3 {
+    position: fixed;
+    bottom: 550px;
+    left: 1080px;
+}
+
