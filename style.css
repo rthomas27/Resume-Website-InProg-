@@ -1,5 +1,5 @@
 body {
-    background-color: #6c7979;
+    background-color: #1A1A1D;   /* #6c7979 */
     margin: 0;
 }
 
@@ -19,10 +19,15 @@ body {
     line-height: 150px;
 }
 
+#hometab a {
+    text-decoration: none;
+    color: #8860D0;
+}
+
 #name {
     position: fixed;
     font-size: 100px;
-    bottom: 500px;
+    bottom: 800px;
     left: 525px;
     color: white;
 }
@@ -34,27 +39,27 @@ body {
 
 #ci1 {
     position: fixed;
-    bottom: 550px;
+    bottom: 850px;
     left: 525px;
 }
 
 #ci2 {
     position: fixed;
-    bottom: 550px;
+    bottom: 850px;
     left: 725px;
 }
 
 #ci3 {
     position: fixed;
-    bottom: 550px;
+    bottom: 850px;
     left: 925px;
 }
 
 #ci4 {
     position: fixed;
-    bottom: 550px;
+    bottom: 850px;
     left: 1105px;
-    color: white;
+    color: #8860D0;
 }
 
 .vlines {
@@ -64,19 +69,20 @@ body {
 
 #line1 {
     position: fixed;
-    bottom: 550px;
+    bottom: 850px;
     left: 700px;
 }
 
 #line2 {
     position: fixed;
-    bottom: 550px;
+    bottom: 850px;
     left: 904px;
 }
 
 #line3 {
     position: fixed;
-    bottom: 550px;
+    bottom: 850px;
     left: 1080px;
 }
+
 
